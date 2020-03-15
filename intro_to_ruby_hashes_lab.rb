@@ -19,21 +19,7 @@ def monopoly_with_second_tier
     :pieces=>4,
     :rent_in_dollars=>{},
     :names=>{},
-      :pennsylvania_railroad=>
-      {
-        "mortgage_value"=>"$200"
-      },
-      :b_and_o_railroad=>
-      {
-        "mortgage_value"=>"$400"
-      },
-      :shortline=>
-      {
-        "mortgage_value"=>"$800"
-      }
-    }
   }
-}
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
 
 end
